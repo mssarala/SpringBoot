@@ -12,8 +12,6 @@ import com.sarala.explore.model.Employee;
 import com.sarala.explore.model.Manager;
 import com.sarala.explore.service.EmployeeRepository;
 import com.sarala.explore.service.ManagerRepository;
-import org.springframework.web.servlet.ViewResolver;
-import org.springframework.web.servlet.view.InternalResourceViewResolver;
 
 import java.util.Arrays;
 
